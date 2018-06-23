@@ -68,5 +68,6 @@ Example
  3. The specific command please reference configuration file<br>
 
 
-
-
+License
+-----------
+The code of this project is licensed under GNU General Public License version 3 (GPL v3). The detailed information can be found in file LICENSE.
