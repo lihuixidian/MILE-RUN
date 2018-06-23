@@ -1,0 +1,13 @@
+need_gen 0
+need_cov 0
+need_real 0
+is_directed_graph 0
+edges D:\datasets\CA_datasets\gen_edges.txt
+facs D:\datasets\CA_datasets\800_pos.txt
+reflocs D:\datasets\CA_datasets\gen_rand_reflocs_100000.txt
+cands D:\datasets\CA_datasets\gen_cands_800.txt
+results D:\datasets\CA_datasets\results.txt
+is_EN_50 0
+is_execute_EN 0
+is_execute_LNB 0
+is_execute_NSJ 1

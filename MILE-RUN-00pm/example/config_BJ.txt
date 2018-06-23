@@ -1,0 +1,13 @@
+need_gen 0
+need_cov 0
+need_real 0
+is_directed_graph 1
+edges D:\datasets\BJ_datasets\gen_edges.txt
+facs D:\datasets\BJ_datasets\1500_stations.txt
+reflocs D:\datasets\BJ_datasets\gen_rand_reflocs_100000.txt
+cands D:\datasets\BJ_datasets\gen_cands_800.txt
+results D:\datasets\BJ_datasets\results.txt
+is_EN_50 0
+is_execute_EN 0
+is_execute_LNB 0
+is_execute_NSJ 1
