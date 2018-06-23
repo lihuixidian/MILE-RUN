@@ -1,0 +1,4 @@
+min lon: -124.389
+max lon: -114.294
+min lat: 32.5413
+max lat: 42.0172
